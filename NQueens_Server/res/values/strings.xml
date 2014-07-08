@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NQueens</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="defaultlabel">Average Spectralnorm Time:</string>
+    <string name="RunCloud">Run in Cloud</string>
+    <string name="Runlocal">Run Locally</string>
+   
+
+</resources>
+
+
