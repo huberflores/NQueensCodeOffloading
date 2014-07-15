@@ -54,14 +54,14 @@ public class LocalService extends Service {
 	  execTimes.removeAllElements(); 
 
       double avgHuffmanTime = 0;
-      //for (int i = 0; i < 4; i++){
+      for (int i = 0; i < 4; i++){
     	  long internalstTime = System.nanoTime();
    	  
     	  Queens pf = new Queens(Parameters.N);
 	      pf.localenumerateQueens();
 
           execTimes.add((System.nanoTime() - internalstTime)*1.0e-6);
-      //}
+      }
       avgHuffmanTime = avg(execTimes);
 
 
