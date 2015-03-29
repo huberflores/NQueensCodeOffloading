@@ -1,7 +1,7 @@
 NQueens with Code Offloading in Android
 ========================================
 
-The case of Nqueens algorithm with code offloading with [code annotations](https://github.com/huberflores/CodeOffloadingAnnotations)
+The case of Nqueens algorithm with computational offloading using [code annotations](https://github.com/huberflores/CodeOffloadingAnnotations)
 
 
 Contact information 
